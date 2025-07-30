@@ -1,6 +1,6 @@
 ---
 title: What is the Best AI Security Certification Course for Beginners?
-date: 2025-01-30 00:00:00 +0000
+date: 2025-01-30 12:00:00 +0000
 categories: [AI Security, Certification]
 tags: [ai-security, certification, beginners, machine-learning, cybersecurity]
 ---

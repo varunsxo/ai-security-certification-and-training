@@ -1,6 +1,6 @@
 ---
 title: Understanding Adversarial Attacks in AI Systems
-date: 2025-01-29 00:00:00 +0000
+date: 2025-01-29 12:00:00 +0000
 categories: [AI Security, Adversarial Attacks]
 tags: [adversarial-attacks, machine-learning, ai-security, deep-learning, neural-networks]
 ---

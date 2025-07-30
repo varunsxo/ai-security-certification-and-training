@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/Cyber-Blog'
+baseurl: '/ai-security-certification-and-training'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -13,38 +13,39 @@ baseurl: '/Cyber-Blog'
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Paris
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyber Blog                         # the main title
+title: AI Security Blog                         # the main title
 
-tagline: Cybersecurity related blogposts  # it will display as the sub-title
+tagline: AI Security Certification & Training  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-   Cybersecurity related blogposts
+   Comprehensive AI Security education and professional certification training.
+   Learn about AI vulnerabilities, adversarial attacks, and security best practices.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://MarwanNour.github.io'
+url: 'https://varunsxo.github.io'
 
 github:
-  username: MarwanNour             # change to your github username
+  username: varunsxo             # change to your github username
 
 twitter:
-  username: __M4rwan
+  username: aisecuritypro
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Marwan Nour
+  name: AI Security Pro
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/MarwanNour       # change to your github homepage
-    - https://twitter.com/__M4rwan
+    - https://github.com/varunsxo       # change to your github homepage
+    - https://twitter.com/aisecuritypro
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/marwannour/
+    - https://www.linkedin.com/company/aisecuritypro/
 
 # google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -79,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/terminal-icon.png
+avatar: assets/img/favicon/favicon.ico
 
 # boolean type, the global switch for ToC in posts.
 toc: true

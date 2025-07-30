@@ -17,7 +17,7 @@ Expert instructors guide you through the latest AI security techniques, equippin
 
 ## What You’ll Learn in This Course
 
-The Certified AI Security Certification course combines essential theory with hands-on practice. You’ll dive into interactive labs and real-world scenarios that ensure you’re ready to apply your skills immediately. The curriculum covers every angle of AI security, from spotting vulnerabilities to implementing defense strategies that meet ethical and regulatory standards.
+The [Certified AI Security Certification course](https://www.practical-devsecops.com/certified-ai-security-professional/) combines essential theory with hands-on practice. You’ll dive into interactive labs and real-world scenarios that ensure you’re ready to apply your skills immediately. The curriculum covers every angle of AI security, from spotting vulnerabilities to implementing defense strategies that meet ethical and regulatory standards.
 
 ## Key Topics in the AI Security Certification Course
 

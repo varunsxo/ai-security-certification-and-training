@@ -1,6 +1,11 @@
-# What is the Best AI Security Certification Course for Beginners?
+---
+title: What is the Best AI Security Certification Course for Beginners?
+date: 2025-01-30 00:00:00 +0000
+categories: [AI Security, Certification]
+tags: [ai-security, certification, beginners, machine-learning, cybersecurity]
+---
 
-*January 2025*
+## Overview
 
 As AI becomes essential in tech, securing these systems is critical. If you're a beginner aiming to master AI Security, the Certified AI Security Professional Course offers the ideal foundation for protecting AI applications and systems from today's evolving threats.
 
@@ -84,7 +89,7 @@ With this certification, you'll gain valuable AI security skills and position yo
 
 ## Getting Started
 
-Ready to begin your AI security journey? [Contact us](about/contact.md) to learn more about enrollment options and start dates.
+Ready to begin your AI security journey? Contact us to learn more about enrollment options and start dates.
 
 ---
 

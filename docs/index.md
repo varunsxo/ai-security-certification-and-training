@@ -60,11 +60,6 @@ Our programs are designed for:
 2. **[Quick Start](getting-started/quick-start.md)** - Begin your journey
 3. **[Installation](getting-started/installation.md)** - Set up your environment
 
-## 📞 Contact & Support
-
-- **Email**: info@aisecuritypro.com
-- **Phone**: +1 (555) 123-4567
-- **Location**: San Francisco, CA
 
 ## 🔗 Quick Links
 
